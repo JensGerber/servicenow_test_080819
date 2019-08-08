@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_application">
+    <sys_sg_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <default>false</default>
+        <description/>
+        <icon display_value="building">78f3c09bdb8f33005526c4c115961966</icon>
+        <name>Field Devices by TPL</name>
+        <order/>
+        <roles/>
+        <sys_class_name>sys_sg_application</sys_class_name>
+        <sys_created_by>Jens.Gerber2</sys_created_by>
+        <sys_created_on>2019-08-08 20:33:11</sys_created_on>
+        <sys_id>34f388dbdb8f33005526c4c115961923</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Field Devices by TPL</sys_name>
+        <sys_package display_value="Field_Devices" source="x_scbgh_field_devi">31a38097db8f33005526c4c115961907</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Field_Devices">31a38097db8f33005526c4c115961907</sys_scope>
+        <sys_update_name>sys_sg_application_34f388dbdb8f33005526c4c115961923</sys_update_name>
+        <sys_updated_by>Jens.Gerber2</sys_updated_by>
+        <sys_updated_on>2019-08-08 20:47:57</sys_updated_on>
+    </sys_sg_application>
+</record_update>

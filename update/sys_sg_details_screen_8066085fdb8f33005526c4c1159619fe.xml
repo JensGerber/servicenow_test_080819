@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="PDI_Company">4156085fdb8f33005526c4c11596191b</data_item>
+        <description/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="file-alt">ff568c1fdb8f33005526c4c115961936</icon>
+        <item_view display_value="Field Devices by TPL detail item view">fb56085fdb8f33005526c4c1159619df</item_view>
+        <name>Details</name>
+        <order>10</order>
+        <parent>4c66485fdb8f33005526c4c115961906</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>Jens.Gerber2</sys_created_by>
+        <sys_created_on>2019-08-08 20:43:47</sys_created_on>
+        <sys_id>8066085fdb8f33005526c4c1159619fe</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="Field_Devices" source="x_scbgh_field_devi">31a38097db8f33005526c4c115961907</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Field_Devices">31a38097db8f33005526c4c115961907</sys_scope>
+        <sys_update_name>sys_sg_details_screen_8066085fdb8f33005526c4c1159619fe</sys_update_name>
+        <sys_updated_by>Jens.Gerber2</sys_updated_by>
+        <sys_updated_on>2019-08-08 21:03:31</sys_updated_on>
+    </sys_sg_details_screen>
+</record_update>
